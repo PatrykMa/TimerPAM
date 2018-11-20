@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PAM_Stoper</string>
+    <string name="partitionedChar">:</string>
+    <string name="addChar">+</string>
+    <string name="minusChar">-</string>
+    <string name="StartNumber">0</string>
+    <string name="startButtonText">Start</string>
+    <string name="stopButtonText">Stop</string>
+    <string name="restartButton">Restart</string>
+</resources>
